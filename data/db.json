@@ -2,15 +2,15 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create a new homepage banner AGAIN!!!! and AGAIN!!!",
+      "title": "Create a new homepage banner AGAIN!!!",
       "details": "lorem ipsum dolor amet lorem ipsum dolor ametlorem ipsum dolor amet",
-      "isComplete": true
+      "isComplete": false
     },
     {
       "id": 2,
       "title": "Make marketing email and web form",
       "details": "lorem ipsum dolor amet form is done!",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "title": "make a new website",
