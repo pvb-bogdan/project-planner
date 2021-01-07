@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create a new homepage banner AGAIN!!!! and AGAIN!!!",
+      "details": "lorem ipsum dolor amet lorem ipsum dolor ametlorem ipsum dolor amet",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email and web form",
+      "details": "lorem ipsum dolor amet form is done!",
+      "isComplete": false
+    },
+    {
+      "title": "make a new website",
+      "details": "sajglajf pasjgpafjsgpa pajspfgjapsfjg pojarspgajsfpgjapsfn",
+      "isComplete": true,
+      "id": 3
+    }
+  ]
+}
